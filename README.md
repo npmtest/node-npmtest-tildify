@@ -1,4 +1,7 @@
-# test coverage for  [tildify (v1.2.0)](https://github.com/sindresorhus/tildify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-tildify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tildify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tildify.svg)](https://travis-ci.org/npmtest/node-npmtest-tildify)
+# npmtest-tildify
+
+#### test coverage for  [tildify (v1.2.0)](https://github.com/sindresorhus/tildify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-tildify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tildify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tildify.svg)](https://travis-ci.org/npmtest/node-npmtest-tildify)
+
 #### Convert an absolute path to a tilde path: `/Users/sindresorhus/dev` → `~/dev`
 
 [![NPM](https://nodei.co/npm/tildify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tildify)
